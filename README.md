@@ -1,12 +1,56 @@
-# React + Vite
+# BlogWave ⚡️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> A modern, minimal blog platform to write, manage, and publish posts with ease.
 
-Currently, two official plugins are available:
+## 📄 What is BlogWave?
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+BlogWave is a simple yet powerful personal blog application built to help you publish your thoughts, articles, or notes.  
+It aims to deliver a clean, responsive UI and a solid foundation you can extend — whether you want a static-site blog, a full dynamic blog with CMS-like features, or something in between.
 
-## Expanding the ESLint configuration
+## 🎯 Why BlogWave?
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Built with modern frontend tooling (React + Vite) to give fast builds and smooth user experience  
+- Easy to understand, customize, and extend — ideal for learning, hacking, or building a personal site  
+- Provides core blogging features you expect (creating, editing, deleting, publishing posts) out of the box  
+
+---
+
+## ✅ Features
+
+- Create, edit, and delete blog posts  
+- Publish / unpublish posts  
+- Responsive UI (mobile + desktop)  
+- Clean, minimal design — ideal for personal blogs or simple publishing  
+- Easy to extend — add comments, categories, user authentication, or a backend if needed  
+
+> ✨ Future ideas (if you resume development):  
+> - Rich-text or markdown support for posts  
+> - Post categories / tags  
+> - Comments / reactions  
+> - User authentication (multiple authors)  
+> - Static export (static site generation) or backend + database for persistence  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React + Vite + JavaScript (or TypeScript if you choose)  
+- **Styling:** (e.g. CSS, Tailwind, or your choice)  
+- **Build Tools:** Vite  
+- *(Optional / future)* **Backend:** Node.js + Express, or any backend of your choice — to support persistent storage, authentication, etc.  
+
+*(If you don’t yet have a backend, this remains a frontend-only blog / static-site platform.)*
+
+---
+
+## 🚀 Getting Started (Development)
+
+Clone the repository and start the development server:
+
+```bash
+git clone https://github.com/your-username/BlogWave.git
+cd BlogWave
+
+
+npm install
+npm run dev
