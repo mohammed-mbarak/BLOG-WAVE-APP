@@ -1,13 +1,13 @@
-# BlogWave ⚡️
+# Postica ⚡️
 
 > A modern, minimal blog platform to write, manage, and publish posts with ease.
 
-## 📄 What is BlogWave?
+## 📄 What is Postica?
 
-BlogWave is a simple yet powerful personal blog application built to help you publish your thoughts, articles, or notes.  
+Postica is a simple yet powerful personal blog application built to help you publish your thoughts, articles, or notes.  
 It aims to deliver a clean, responsive UI and a solid foundation you can extend — whether you want a static-site blog, a full dynamic blog with CMS-like features, or something in between.
 
-## 🎯 Why BlogWave?
+## 🎯 Why Postica?
 
 - Built with modern frontend tooling (React + Vite) to give fast builds and smooth user experience  
 - Easy to understand, customize, and extend — ideal for learning, hacking, or building a personal site  
@@ -23,7 +23,7 @@ It aims to deliver a clean, responsive UI and a solid foundation you can extend 
 - Clean, minimal design — ideal for personal blogs or simple publishing  
 - Easy to extend — add comments, categories, user authentication, or a backend if needed  
 
-> ✨ Future ideas (if you resume development):  
+> ✨ Future ideas:  
 > - Rich-text or markdown support for posts  
 > - Post categories / tags  
 > - Comments / reactions  
@@ -48,8 +48,8 @@ It aims to deliver a clean, responsive UI and a solid foundation you can extend 
 Clone the repository and start the development server:
 
 ```bash
-git clone https://github.com/your-username/BlogWave.git
-cd BlogWave
+git clone https://github.com/mohammed-mbarak/POSTICA.git
+cd POSTICA
 
 
 npm install
